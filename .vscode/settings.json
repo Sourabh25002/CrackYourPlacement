@@ -4,6 +4,9 @@
     "iostream": "cpp",
     "unordered_map": "cpp",
     "string": "cpp",
-    "new": "cpp"
+    "new": "cpp",
+    "ostream": "cpp",
+    "deque": "cpp",
+    "vector": "cpp"
   }
 }
